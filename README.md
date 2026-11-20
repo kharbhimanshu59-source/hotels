@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hotel Offer Orchestrator
 
 Aggregates overlapping hotel offers from two mock suppliers, de-duplicates hotels by name, picks the best (cheapest) offer per hotel, stores the result in Redis and supports price-range filtering **inside Redis**. The whole flow is orchestrated by a **Temporal** workflow.
@@ -183,3 +184,6 @@ src/
 postman/                     Postman collection
 Dockerfile, docker-compose.yml
 ```
+=======
+# hotels
+>>>>>>> 136138d69fd825f1aab7e82adfd16a4b3df6baa4
